@@ -1,0 +1,9 @@
+p { 
+    color: black;
+}
+
+#specific {
+    color: rgb(85, 156, 165);
+    background-color: grey;
+    font-size: 30px;
+}
